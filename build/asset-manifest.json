@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.6c3d982b.css",
-    "main.js": "./static/js/main.d887a608.js",
+    "main.css": "./static/css/main.5e11eaba.css",
+    "main.js": "./static/js/main.99b829f3.js",
     "static/media/background.svg": "./static/media/background.9d84691361a058399357.svg",
     "static/media/portfolioPicture2.png": "./static/media/portfolioPicture2.8f59208c468bc456005f.png",
     "static/media/portfolioPicture1.png": "./static/media/portfolioPicture1.6a220a6cbc0e6df3cf7b.png",
     "static/media/portfolioPicture3.png": "./static/media/portfolioPicture3.a394393272a27ade116c.png",
     "static/media/background2.jpg": "./static/media/background2.41f6305a93a61a6c9162.jpg",
+    "static/media/back-to-school.png": "./static/media/back-to-school.4f264603981b40eaae08.png",
+    "static/media/people.png": "./static/media/people.d426dc98443563b0c31c.png",
     "static/media/teacher.png": "./static/media/teacher.37eff8557d5491846fbf.png",
+    "static/media/bell.png": "./static/media/bell.a57847e3f5687e5585b2.png",
+    "static/media/review.png": "./static/media/review.aca6d288b9e70d84c938.png",
     "index.html": "./index.html",
-    "main.6c3d982b.css.map": "./static/css/main.6c3d982b.css.map",
-    "main.d887a608.js.map": "./static/js/main.d887a608.js.map"
+    "main.5e11eaba.css.map": "./static/css/main.5e11eaba.css.map",
+    "main.99b829f3.js.map": "./static/js/main.99b829f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c3d982b.css",
-    "static/js/main.d887a608.js"
+    "static/css/main.5e11eaba.css",
+    "static/js/main.99b829f3.js"
   ]
 }
